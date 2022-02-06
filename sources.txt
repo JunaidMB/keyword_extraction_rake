@@ -1,0 +1,6 @@
+1. YAKE github repo: https://github.com/LIAAD/yake/tree/d2fc406c52d08843c2cb511d31d859980a7291e4
+2. YAKE paper: https://repositorio.inesctec.pt/server/api/core/bitstreams/ef121a01-a0a6-4be8-945d-3324a58fc944/content
+3. Generic Text Summarisation: https://www.cs.bham.ac.uk/~pxt/IDA/text_summary.pdf
+4. Junaid text summariser: https://github.com/JunaidMB/text_summarisation_app/tree/master
+5. pytextrank docs: https://derwen.ai/docs/ptr/explain_algo/
+6. Junaid SVD doc: https://paper.dropbox.com/doc/Singular-Value-Decomposition-M84WmU90IcEQRXheIk9T7#:uid=260474072734120811511890&h2=Geometric-Interpretation-of-SV
